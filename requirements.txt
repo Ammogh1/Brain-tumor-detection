@@ -1,0 +1,10 @@
+tensorflow>=2.10.0
+numpy
+matplotlib
+opencv-python
+scikit-learn
+pandas
+seaborn
+streamlit
+psycopg2-binary
+python-dotenv
